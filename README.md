@@ -37,7 +37,7 @@
 ### 👨‍💻 About Me
 
 <strong>
-I'm a <b>Software Engineer</b> specializing in Java Backend Architecture Spring Boot and Microservices 
+I'm a <b>Software Engineer</b> specializing in Java Backend Architecture Spring Boot and Microservices.               
 With 3+ years of experience at TCS, I architect production-grade systems handling 700k+ daily transactions with 99.95%+ uptime serving 300k+ users across B2B and B2C platforms.
 
 🔹 **Specialization:** Building scalable, secure, and resilient backend systems  
