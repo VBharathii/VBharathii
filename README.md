@@ -37,8 +37,8 @@
 ### 👨‍💻 About Me
 
 <strong>
-I'm a <b>Software Engineer</b> specializing in **Backend Architecture** and **Microservices** from <img src="https://www.crossed-flag-pins.com/animated-flag-pins/gifs/India_240-animated-flag-pins.gif" width="40">
-With **3+ years** of experience, I architect production-grade systems handling **700k+ daily transactions** with **99.95%+ uptime** serving **300k+ users** across B2B and B2C platforms.
+I'm a <b>Software Engineer</b> specializing in Java Backend Architecture and Microservices from <img src="https://www.crossed-flag-pins.com/animated-flag-pins/gifs/India_240-animated-flag-pins.gif" width="40">
+With 3+ years of experience, I architect production-grade systems handling 700k+ daily transactions** with 99.95%+ uptime serving 300k+ users across B2B and B2C platforms.
 
 🔹 **Specialization:** Building scalable, secure, and resilient backend systems  
 🔹 **Passion:** Creating measurable impact through thoughtful engineering decisions  
