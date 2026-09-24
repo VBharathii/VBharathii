@@ -37,8 +37,9 @@
 ### 👨‍💻 About Me
 
 <strong>
-I'm a <b>Software Engineer</b> specializing in Java Backend Architecture Spring Boot and Microservices.           
-With 3+ years of experience at TCS, I architect production-grade systems handling 700k+ daily transactions with 99.95%+ uptime serving 300k+ users across B2B and B2C platforms.
+I'm a <b>Software Engineer</b> specializing in **Backend Architecture** and **Microservices** from <img src="https://www.crossed-flag-pins.com/animated-flag-pins/gifs/India_240-animated-flag-pins.gif" width="40"> **Hyderabad, India**.
+
+With **3+ years** of experience, I architect production-grade systems handling **700k+ daily transactions** with **99.95%+ uptime** serving **300k+ users** across B2B and B2C platforms.
 
 🔹 **Specialization:** Building scalable, secure, and resilient backend systems  
 🔹 **Passion:** Creating measurable impact through thoughtful engineering decisions  
@@ -54,7 +55,28 @@ With 3+ years of experience at TCS, I architect production-grade systems handlin
 
 ---
 
-### 🛠️ Languages & Tech Stack
+### � Professional Experience
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/1280px-Tata_Consultancy_Services_Logo.svg.png" alt="TCS Logo" height="60" width="100"/>
+</div>
+
+#### **Systems Engineer** | Tata Consultancy Services
+*December 2023 – Present | Hyderabad, India*
+
+Architecting and building mission-critical backend systems for some of India's largest automotive enterprises (Stellantis B2B, TATA Motors B2C).
+
+**Key Contributions:**
+- 🏗️ Designed & deployed **15+ microservices** handling **700k+ daily transactions** with **99.95%+ uptime**
+- 🔐 Built **Portal & User Management API** supporting **100k+ dealership profiles** with JWT/LDAP/SSO
+- 🔍 Engineered **AWS OpenSearch search engine** processing **500k+ queries/day** with <500ms latency
+- 📍 Developed **Real-time Geofencing & Telemetry Systems** for **500k+ daily active users**
+- 🛡️ Implemented **Resilience4J circuit breaker patterns** across **7 REST APIs** with **99.5%+ availability**
+- 💾 Led **infrastructure modernization** achieving **65% cost reduction** & **40% performance improvement**
+
+---
+
+### �🛠️ Languages & Tech Stack
 
 <div align="center">
   <h4>Backend & Frameworks</h4>
