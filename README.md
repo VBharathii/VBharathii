@@ -26,8 +26,10 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub Badge" height="35" width="45" /></a>
     <a href="tel:+919014989929" target="_blank">
         <img src="https://img.icons8.com/color/96/000000/phone.png" alt="Phone" height="35" width="45" /></a>
-    <a href="https://twitter.com/VBharathii" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Badge" height="35" width="45" /></a>
+</div>
+
+<div align="center">
+<h4>📱 Phone: +91 9014989929</h4>
 </div>
 
 ---
@@ -35,7 +37,7 @@
 ### 👨‍💻 About Me
 
 <strong>
-I'm a <b>Software Engineer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> specializing in **Backend Architecture** and **Microservices** from <img src="https://www.crossed-flag-pins.com/animated-flag-pins/gifs/India_240-animated-flag-pins.gif" width="40"> **Hyderabad, India**.
+I'm a <b>Software Engineer</b> specializing in **Backend Architecture** and **Microservices** from <img src="https://www.crossed-flag-pins.com/animated-flag-pins/gifs/India_240-animated-flag-pins.gif" width="40"> **Hyderabad, India**.
 
 With **3+ years** of experience, I architect production-grade systems handling **700k+ daily transactions** with **99.95%+ uptime** serving **300k+ users** across B2B and B2C platforms.
 
