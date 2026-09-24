@@ -58,24 +58,7 @@ With **3+ years** of experience, I architect production-grade systems handling *
 ### Professional Experience
 
 <div align="center">
-  <style>
-    @keyframes logoRotate {
-      0% { transform: rotate(0deg) scale(1); }
-      50% { transform: rotate(5deg) scale(1.05); }
-      100% { transform: rotate(0deg) scale(1); }
-    }
-    @keyframes logoPulse {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.8; }
-    }
-    .tcs-logo {
-      animation: logoRotate 3s ease-in-out infinite, logoPulse 3s ease-in-out infinite;
-      display: inline-block;
-    }
-  </style>
-  <div class="tcs-logo">
-    <img src="./assets/Tata_Consultancy_Services_Logo_0.svg" alt="TCS Logo" height="200" width="180"/>
-  </div>
+  <img src="./assets/Tata_Consultancy_Services_Logo_0.svg" alt="TCS Logo" height="200" width="180"/>
 </div>
 
 #### **Systems Engineer** | Tata Consultancy Services
